@@ -1,1 +1,1 @@
-import new_file
+import not_blank
